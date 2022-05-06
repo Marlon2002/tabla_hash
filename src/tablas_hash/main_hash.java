@@ -9,14 +9,14 @@ import Vista.*;
  *
  * @author joseg
  */
-public class Table_hash_main {
+public class main_hash {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        Hash_form Hash = new Hash_form();
+        
+        frm_hash1 Hash = new frm_hash1();
         Hash.show();
         
     }
